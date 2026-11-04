@@ -1,6 +1,6 @@
 ### Hi, I'm Nicolás 👋
 
-Product Owner in fintech and payments specialized on **reconciliation and settlements**, based in Bogotá, Colombia.
+Product Owner in fintech and payments, specialized in **reconciliation and settlements**, based in Bogotá, Colombia.
 
 - 🔄 Led reconciliation products at Yuno, a payments orchestration platform: settlement matching, ETL pipelines and exception management for global merchants
 - 🤖 Built internal AI agents and automations to speed up reconciliation ops and product workflows
